@@ -1,3 +1,6 @@
+> **⚠️ This project is deprecated and no longer maintained.**
+> Please use the new version at [[annika](https://github.com/annemedia/annika)].
+> 
 # Annika - Command Interface
 
 Anne Media introduces the grace of Annika - Command Interface for building user interfaces. An efficient vanilla JavaScript solution, an AI-ready protocol, ideal for creating interchangeable web components and interactive website templates, drawing your attention to a logical set of commands and procedures within the scope of one master function. The Subroutine.
